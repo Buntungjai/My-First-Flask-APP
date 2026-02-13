@@ -39,7 +39,6 @@ https://youtu.be/UGb6HtWHbAQ
 ## 📁 Project Structure
 
 My-First-Flask-APP/
-│
 ├── app.py # Main Flask application
 ├── service.db # SQLite database
 ├── templates/ # HTML templates
