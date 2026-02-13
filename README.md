@@ -1,5 +1,10 @@
 # My First Flask App
 
+Dashboard Interface,Login Page
+"<img src=""images/DashBoard.png"" width=""400"">","<img src=""images/Login.png"" width=""400"">"
+Database Structure (SQLite),Development Environment
+"<img src=""images/SQLite.png"" width=""400"">","<img src=""images/vsCode.png"" width=""400"">"
+
 A simple internal service request web application built with Flask.
 
 This project is created for learning purposes and demonstrates how to build
