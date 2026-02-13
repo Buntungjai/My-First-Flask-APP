@@ -42,13 +42,11 @@ My-First-Flask-APP/
 ├── app.py # Main Flask application
 ├── service.db # SQLite database
 ├── templates/ # HTML templates
-│ ├── base.html
-│ ├── login.html
-│ ├── dashboard.html
-│ └── new_request.html
+│   ├── base.html
+│   ├── login.html
+│   ├── dashboard.html
+│   └── new_request.html
 └── README.md
-
-
 ---
 
 ## 🚀 How to Run
