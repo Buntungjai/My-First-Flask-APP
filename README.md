@@ -71,3 +71,14 @@ http://127.0.0.1:5000
 
 
 
+
+My-First-Flask-APP/
+├── app.py # Main Flask application
+├── service.db # SQLite database
+├── templates/ # HTML templates
+│   ├── base.html
+│   ├── login.html
+│   ├── dashboard.html
+│   └── new_request.html
+└── README.md
+
