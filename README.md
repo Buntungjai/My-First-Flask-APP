@@ -56,7 +56,7 @@ My-First-Flask-APP/
 
 1. Clone the repository
 bash
-git clone https://github.com/your-username/My-First-Flask-APP.git
+git clone https://github.com/Buntungjai/My-First-Flask-APP.git
 cd My-First-Flask-APP
 
 2. Create virtual environment (optional but recommended)
