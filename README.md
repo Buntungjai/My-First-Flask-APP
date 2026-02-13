@@ -38,7 +38,7 @@ https://youtu.be/UGb6HtWHbAQ
 
 ## 📂 Project Structure
 
-```text
+```
 My-First-Flask-APP/
 ├── app.py # Main Flask application
 ├── service.db # SQLite database
@@ -48,7 +48,7 @@ My-First-Flask-APP/
 │   ├── dashboard.html
 │   └── new_request.html
 └── README.md
-
+```
 ## 🚀 How to Run
 
 1. Clone the repository
