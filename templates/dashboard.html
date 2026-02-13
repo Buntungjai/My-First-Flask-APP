@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Dashboard</h1>
+
+<p>Welcome, {{ current_user.username }}</p>
+
+<p>
+Total: {{ requests|length }}
+</p>
+
+<table border="1">
+<tr>
+    <th>ID</th>
+    <th>Title</th>
+    <th>Status</th>
+</tr>
+{% for r in requests %}
+<tr>
+    <td>{{ r.id }}</td>
+    <td>{{ r.title }}</td>
+    <td>{{ r.status }}</td>
+</tr>
+{% endfor %}
+</table>
+{% endblock %}
+
